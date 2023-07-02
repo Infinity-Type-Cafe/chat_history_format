@@ -1,0 +1,9 @@
++-----------------------------------------+
+| ∞-type Café 暑期学校会议聊天记录格式化脚本 |
++-----------------------------------------+
+
+o- USAGE
+    python3 main.py [input] [output]
+
+o- DEMO
+    查看 ./stlc-chat-history 和 demo.txt
